@@ -11,6 +11,6 @@
 (function () {
     console.log("Auto Select Vehicles... Loading AutoVeh.js");
     const script = document.createElement("script");
-    script.src = "https://sureshsuri1875.github.io.js/bookingscriptss/Auto.js";
+    script.src = "https://sureshsuri1875.github.io.js/bookingscriptss/AutoVeh.js";
     document.body.appendChild(script);
 })();
