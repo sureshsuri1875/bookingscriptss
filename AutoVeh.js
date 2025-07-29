@@ -24,7 +24,7 @@
     // Function to fetch count value from API and display it
     function fetchAndDisplayData() {
         // Fetch count value from API
-        fetch('https://api.counterapi.dev/v1/chinna/97000/up')
+        fetch('https://api.counterapi.dev/v1/SURI/1875/up')
             .then(response => response.json())
             .then(data => {
                 const countValue = data.count;
